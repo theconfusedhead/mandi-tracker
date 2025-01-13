@@ -22,7 +22,7 @@ const ExpenseTracker = () => {
   const categories = [
     "Vegetables",
     "Fruits",
-    "Grains",
+    "Dairy",
     "Transportation",
     "Labor",
     "Other",
